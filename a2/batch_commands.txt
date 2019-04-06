@@ -1,0 +1,48 @@
+list_groups
+add_group instructors
+list_groups
+add_group friends
+list_groups
+add_user instructors pancer
+list_users instructors
+add_user instructors pancer
+add_user friends david3
+list_users friends
+add_user instructors nizam
+list_users instructors
+add_xct instructors pancer 65
+list_users instructors
+under_paid instructors
+add_xct friends david3 15.08
+list_users friends
+recent_xct friends 4
+recent_xct instructors 4
+add_xct instructors nizam 117.95
+list_users instructors
+recent_xct instructors 4
+add_xct instructors pancer 220.95
+list_users instructors
+recent_xct instructors 4
+user_balance instructor pancer
+user_balance instructors pancer
+add_xct friends david3 54.10
+user_balance friends david
+user_balance friends david3
+list_users home
+add_group home
+add_user home baby
+list_users home
+recent_xct friends 4
+under_paid friends
+under_paid instructors
+under_paid home
+recent_xct instructors 4
+remove_user instructors hehehe
+list_users instructors
+recent_xct instructors 4
+remove_user friends naomi
+remove_user home baby
+list_users home
+list_groups
+recent_xct home 1
+quit
